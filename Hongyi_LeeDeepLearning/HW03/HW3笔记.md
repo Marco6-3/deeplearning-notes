@@ -18,3 +18,7 @@
 > **预期目标**：通过降低模型复杂度、增加随机性和动态调整学习率，压低训练集准确率，提升验证集准确率。
 
  <img width="1189" height="390" alt="下载" src="https://github.com/user-attachments/assets/e41aa13a-59d2-4686-b08f-8d0f12d43dc4" />
+
+ `private score=0.60968`
+ 
+` public score=0.62066`
